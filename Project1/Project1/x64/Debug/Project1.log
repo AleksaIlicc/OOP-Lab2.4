@@ -1,0 +1,7 @@
+﻿  Buffer.cpp
+E:\CPP\LAB\Druga lab vezba\zad4 - gotovo\Project1\Project1\Buffer.cpp(148,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\CPP\LAB\Druga lab vezba\zad4 - gotovo\Project1\Project1\Buffer.cpp(149,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Complex.cpp
+  Main.cpp
+  Generating Code...
+  Project1.vcxproj -> E:\CPP\LAB\Druga lab vezba\zad4 - gotovo\Project1\x64\Debug\Project1.exe
